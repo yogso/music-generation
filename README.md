@@ -17,4 +17,4 @@ Instructions:
 
 
 
-Note: The generated songs will be automatically downloaded to the computer from where the colab is executed. In case the browser asks, it is necessary to accept the permissions for the site to download multiple files
+Note: The generated songs will be automatically downloaded to the computer from where the colab is executed. In case the browser asks, it is necessary to accept the permissions for the web site to download multiple files
