@@ -7,11 +7,11 @@ Repository related to paper on automatic music generation through Machine Learni
 
 Instructions:
 
--Open the Music_Generation_Main.ipynb file and click on "Open with Colab".
+-Open the Music_Generation_Main.ipynb file and click on the "Open in Colab" button.
 
 -When trying to run the file you will be asked if you want to create a copy in Google Drive, accept and open the generated copy with colab.
 
--Run the cells of the file in the established order
+-Run the cells of the file in the established order.
 
 
 
