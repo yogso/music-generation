@@ -11,7 +11,7 @@ Instructions:
 
 -When trying to run the file you will be asked if you want to create a copy in Google Drive, accept and open the generated copy in colab.
 
--Run the cells of the file in the established order.
+-Run the cells of the file in the established order modifying the parameters that you consider convenient.
 
 
 
