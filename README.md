@@ -9,7 +9,7 @@ Instructions:
 
 -Open the Music_Generation_Main.ipynb file and click on the "Open in Colab" button.
 
--When trying to run the file you will be asked if you want to create a copy in Google Drive, accept and open the generated copy with colab.
+-When trying to run the file you will be asked if you want to create a copy in Google Drive, accept and open the generated copy in colab.
 
 -Run the cells of the file in the established order.
 
